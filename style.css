@@ -6,6 +6,10 @@ body {
     width: 100%;
 }
 
+.principal{
+    background: #cccccc
+}
+
 h1 {
     text align: center;
 }
@@ -21,6 +25,15 @@ p {
 em strong {
     color: #FF0000;
 }
+
 .itens {
     font-style: italic ;
+}
+
+.beneficos{
+    background: #FFFFFF;
+}
+
+h2{
+    text-align: center;
 }
